@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swai-collins)](https://github.com/swai-collins/github-readme-stats)
+![Collins Swai github stats](https://github-readme-stats.vercel.app/api?username=swai-collins&theme=dark&show_icons=true)
