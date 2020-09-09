@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![swai-collins github stats](https://github-readme-stats.vercel.app/api?username=swai-collins&theme=dark&show_icons=true)
