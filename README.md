@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![swai-collins github stats](https://github-readme-stats.vercel.app/api?username=swai-collins&theme=dark&show_icons=true)
+<a href="https://github.com/swai-collins/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swai-collins&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/swai-collins/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swai-collins&repo=convoychat" />
+</a>
