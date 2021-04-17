@@ -25,7 +25,7 @@
 </p>
 
 </br>
-
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swai-collins)](https://github.com/swai-collins/github-readme-stats)
 ![Collins Swai github stats](https://github-readme-stats.vercel.app/api?username=swai-collins&show_icons=true&theme=onedark)
