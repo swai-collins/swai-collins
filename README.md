@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Kotlin and Java
 - 👯 I’m looking to collaborate on more open source projects
 - 💬 Ask me about Android Development
-- 🥅 2021 Goals: Grow My Network & Contribute more to Open Source projects.
+- 🥅 2021 Goals: Grow My Network, work on bug bounty programs & Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm a gamer
 
 
